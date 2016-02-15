@@ -1,0 +1,8 @@
+D:\work\C#\ModellingSystem\ModellingSystem\bin\Debug\ModellingSystem.exe
+D:\work\C#\ModellingSystem\ModellingSystem\bin\Debug\ModellingSystem.pdb
+D:\work\C#\ModellingSystem\ModellingSystem\obj\Debug\ModellingSystem.csprojResolveAssemblyReference.cache
+D:\work\C#\ModellingSystem\ModellingSystem\obj\Debug\ModellingSystem.Properties.Resources.resources
+D:\work\C#\ModellingSystem\ModellingSystem\obj\Debug\ModellingSystem.csproj.GenerateResource.Cache
+D:\work\C#\ModellingSystem\ModellingSystem\obj\Debug\ModellingSystem.exe
+D:\work\C#\ModellingSystem\ModellingSystem\obj\Debug\ModellingSystem.pdb
+D:\work\C#\ModellingSystem\ModellingSystem\obj\Debug\ModellingSystem.mainForm.resources
